@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ArcGIS Pro and ArcMap specific files
+*.aprx
+*.lock
+*.gdb/
+*.sde
+*.gdb.zip
+.backups/
